@@ -1,36 +1,47 @@
-## Chicken Fry for Bachelors Recipe
 
-**Ingredients:**
+## CyberArk Videos
 
-1. Chicken - **కోడి** (Kodi)
-2. Onion - **ఉల్లి** (Ulli)
-3. Green chillies - **పచ్చి మిరపకాయలు** (Pacchi Mirapakayalu)
-4. Curry leaves - **కరివేపాకు** (Karivepaku)
-5. Oil - **నూనె** (No one)
-6. Cumin seeds - **జీలకర్ర** (Jeelakarra)
-7. Ginger garlic paste - **అల్లం వెల్లుల్లి పేస్ట్** (Allam Vellulli Paste)
-8. Red chilli powder - **ఎండు మిరపకాయ పొడి** (Endu Mirapakaya Podi)
-9. Coriander powder - **ధనియాల పొడి** (Dhaniyalu Podi)
-10. Garam Masala - **గరం మసాలా** (Garam Masala)
-11. Cumin Powder - **జీలకర్ర పొడి** (Jeelakarra Podi)
-12. Salt - **ఉప్పు** (Uppu)
-13. Water - **నీళ్ళు** (Neellu)
-14. Coriander leaves - **కొత్తిమీర** (Kothimeera)
-15. Lemon juice - **నిమ్మరసం** (Nimma Rasam)
+[Managing Windows Local Admin Credentials using CyberArk PAM - YouTube](https://www.youtube.com/playlist?list=PLI6P4KL8sjkyUb3m6jKiBByDhVgEX8KRW)
 
-**Instructions:**
+## File List
 
-1. **Preparation:** Chop the 4 large onions, 7-8 green chilies, and set them aside with the 4 curry leaves.
-2. **Cooking Start:** Heat 5 spoons of oil in a pan.
-3. **Adding Spices:** Once the oil is hot, add a pinch of cumin seeds. Immediately add the chopped green chilies.
-4. **Onions:** Add the chopped onions. Fry them until they turn brown.
-5. **Ginger-Garlic Paste:** Once onions are browned, add 2 spoons of ginger garlic paste. Sauté it until the raw smell goes away.
-6. **Chicken:** Add the 1 kg of cleaned chicken. Mix well with the onions and ginger-garlic paste.
-7. **Seasoning:** Add salt, 2 spoons of red chili powder, 2 spoons of coriander powder, 1 spoon of Garam Masala, and 2 spoons of Cumin Powder. Mix everything well.
-8. **Water:** Pour 100 ml of water into the pan (this is because the chicken will also release some water).
-9. **Simmer:** Close the pan with a lid and let the chicken boil for 15 minutes on medium flame.
-10. **Check:** After 15 minutes, check the chicken. If you prefer a gravy consistency, stop here. For a drier, powdery consistency, proceed to the next step.
-11. **Final Fry:** If you want the chicken to have a powdery consistency, fry it on high flame for 5 more minutes.
-12. **Garnish:** Add chopped coriander leaves for flavor and presentation.
-13. **Taste Test:** Check the taste, and adjust any seasonings if needed. Optionally, you can squeeze some lemon juice over the chicken for added tang.
-14. **Serve:** Enjoy the chicken fry with rasam or as it is.
+### Level 2
+
+Under Construction
+
+### Level3
+
+- **cpm**
+    - [Session 19 CPM 1 - YouTube](https://www.youtube.com/watch?v=1WCQn9Co0AE)
+    - [Session 20 CPM 2 - YouTube](https://www.youtube.com/watch?v=1K07sGrUukg)
+    - [Session 21 CPM3 - YouTube](https://www.youtube.com/watch?v=zLQQHDcTp68)
+    - [Session 22 CPM Manual Hardening - YouTube](https://www.youtube.com/watch?v=20gpCkLZq3o)
+
+- **installations**
+    - [Session 1 Vault Installation - YouTube](https://www.youtube.com/watch?v=vnQkIFp7jBQ)
+    - [Session 2 PVWA Installation 1 - YouTube](https://www.youtube.com/watch?v=YnquIFyfVi4&list=PLSSR4YZrEbQXYADCFA-176WpXJ_fvhHJ7&index=3)
+    - [Session 2 PVWA Installation 2 - YouTube](https://www.youtube.com/watch?v=FWIqm6hOdao&list=PLSSR4YZrEbQXYADCFA-176WpXJ_fvhHJ7&index=4)
+    - [Session 3 CPM Installation - YouTube](https://www.youtube.com/watch?v=ujmR4jliyjk&list=PLSSR4YZrEbQXYADCFA-176WpXJ_fvhHJ7&index=5)
+    - [Session 4 PSM Installation - YouTube](https://www.youtube.com/watch?v=XilVd28I_3s&list=PLSSR4YZrEbQXYADCFA-176WpXJ_fvhHJ7&index=6)
+    - [Session 5 PSM Load Balancer - YouTube](https://www.youtube.com/watch?v=c8Sx76ghCF8&list=PLSSR4YZrEbQXYADCFA-176WpXJ_fvhHJ7&index=7)
+    - [Session 6 PSMP Installation - YouTube](https://www.youtube.com/watch?v=rDt7oLVxS4c&list=PLSSR4YZrEbQXYADCFA-176WpXJ_fvhHJ7&index=8)
+
+- **integrations**
+    - [Session 23 LDAPS Integration - YouTube](https://www.youtube.com/watch?v=b-Bhp3tNVt8)
+    - [Session 24 SIEM OR SYSLOG INTEGRATION - YouTube](https://www.youtube.com/watch?v=7vqS6apEsa4)
+
+- **pvwa**
+    - Session_14_PVWA_1.mp4
+    - Session_15_PVWA_2.mp4
+    - Session_16_PVWA Credfile Creation.mp4
+    - Session_17_PVWA_Logs Files_Configuration Files.mp4
+    - Session_18_PVWA_Manual Hardening.mp4
+
+- **vault**
+    - Session_10_Log Files_Debugging Levels.mp4
+    - Session_11_Vault DB_Safes_Default Users.mp4
+    - Session_12_MasterCD_Operator CD-Other Topics.mp4
+    - Session_13_Break Glass Procedure.mp4
+    - Session_7_Vault Prerequisites_Services.mp4
+    - Session_8_Vault Service Dependencies_DBPARM.ini file.mp4
+    - Session_9_Vault Configuration Files.mp4
