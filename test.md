@@ -31,17 +31,17 @@ Under Construction
     - [Session 24 SIEM OR SYSLOG INTEGRATION - YouTube](https://www.youtube.com/watch?v=7vqS6apEsa4)
 
 - **pvwa**
-    - Session_14_PVWA_1.mp4
-    - Session_15_PVWA_2.mp4
-    - Session_16_PVWA Credfile Creation.mp4
-    - Session_17_PVWA_Logs Files_Configuration Files.mp4
-    - Session_18_PVWA_Manual Hardening.mp4
+    - [Session 14 PVWA 1 - YouTube](https://www.youtube.com/watch?v=pOVUKfccTsA)
+    - [Session 15 PVWA 2 - YouTube](https://www.youtube.com/watch?v=W1LA5VxklXo)
+    - [Session 16 PVWA Credfile Creation - YouTube](https://www.youtube.com/watch?v=XPaFwFhUn50)
+    - [Session 17 PVWA Logs Files Configuration Files - YouTube](https://www.youtube.com/watch?v=1uyzi6ISI04)
+    - [Session 18 PVWA Manual Hardening - YouTube](https://www.youtube.com/watch?v=QD_AzV1U1yI)
 
 - **vault**
-    - Session_10_Log Files_Debugging Levels.mp4
-    - Session_11_Vault DB_Safes_Default Users.mp4
-    - Session_12_MasterCD_Operator CD-Other Topics.mp4
-    - Session_13_Break Glass Procedure.mp4
-    - Session_7_Vault Prerequisites_Services.mp4
-    - Session_8_Vault Service Dependencies_DBPARM.ini file.mp4
-    - Session_9_Vault Configuration Files.mp4
+    - [Session 7 Vault Prerequisites Services - YouTube](https://www.youtube.com/watch?v=BHGG6KvwCs4)
+    - [Session 8 Vault Service Dependencies DBPARM ini file - YouTube](https://www.youtube.com/watch?v=5ygUi2wYjek)
+    - [Session 9 Vault Configuration Files - YouTube](https://www.youtube.com/watch?v=zZkqKRJmlvQ)
+    - [Session 10 Log Files Debugging Levels - YouTube](https://www.youtube.com/watch?v=DCtRcnGrTcE)
+    - [Session 11 Vault DB Safes Default Users - YouTube](https://www.youtube.com/watch?v=eYxNtUqKWF0)
+    - [Session 12 MasterCD Operator CD Other Topics - YouTube](https://www.youtube.com/watch?v=uuYlHAX4qqg)
+    - [Session 13 Break Glass Procedure - YouTube](https://www.youtube.com/watch?v=TUS0kdIUnZE)
