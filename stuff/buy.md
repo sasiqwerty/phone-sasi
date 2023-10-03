@@ -1,14 +1,3 @@
-## Things to Buy
-
-| No. | Item                                        | Quantity |
-|-----|---------------------------------------------|----------|
-| 1   | milk                                        | 2        |
-| 2   | curd                                        | 1        |
-| 3   | bread                                       | 4        |
-| 4   | oil (1kg)                                   | 1        |
-| 5   | dal (2kg)                                   | 1        |
-| 6   | rusk packets                                | 2        |
-| 7   | biscuits                                    | 2        |
-| 8   | soap box                                    | 1        |
-| 9   | jam                                         | 2        |
-| 10  | all out or good night mosquito repellent    | 4 packs  |
+- [Session 25 SNMP Integration - YouTube](https://www.youtube.com/watch?v=6ZK1lRKynjM)
+- [Session 26 NTP Integration - YouTube](https://www.youtube.com/watch?v=jCSC01DpRSk)
+- [Session 27 SMTP Integration - YouTube](https://www.youtube.com/watch?v=T2m1_x1QrM0)
